@@ -4,4 +4,4 @@ doubts
 2. when i try to clone the whole repository i was not able to see changes in branches in local repository
 3. I first cloned the branch feature1 to working directory, and modified learn.html and tried to commit this version to 
 repository, throwed an error
-4.
+4. --oneline --decorate

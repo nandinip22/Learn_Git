@@ -1,0 +1,18 @@
+package main
+
+import (
+"fmt"
+)
+
+type profile struct {
+name string
+company_name string
+age int
+}
+
+func add(v profile) {
+
+fmt.Println("name:", v.name)
+fmt.Println("Company_name", v.company_name)
+fmt.Println("age:", v.age)
+}

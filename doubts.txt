@@ -1,8 +1,0 @@
-doubtsfffff
-
-1. merge conflict and i tried to resolve the issues as well merge did not work later
-2. when i try to clone the whole repository i was not able to see changes in branches in local repository
-3. I first cloned the branch feature1 to working directory, and modified learn.html and tried to commit this version to 
-repository, throwed an error
-4. --oneline --decorate
-5.hellloooooogdfgdfjg,hhgjhg
